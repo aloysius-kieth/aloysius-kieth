@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aloysius Kieth</h1>
 <h3 align="center">A code enthusiast from the sunny islands of Singapore! <img src="https://hatscripts.github.io/circle-flags/flags/sg.svg" width="48"></h3>
 
-- 👨‍💻 All of my projects are available at [https://aloysius-kieth.github.io/portfolio-2021/](https://aloysius-kieth.github.io/portfolio-2021/)
+- 👨‍💻 Visit my website @ [https://aloysius-kieth.github.io/portfolio-2021/](https://aloysius-kieth.github.io/portfolio-2021/)
 
-- 📫 How to reach me **aloysius.kieth@gmail.com**
+- 📫 Reach me @ **aloysius.kieth@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1HoAikionFaTnsdDn-Doc4x3sSq4qTPBV/view?usp=sharing)
+- 📄 Read all my experiences @ [My Resume](https://drive.google.com/file/d/1HoAikionFaTnsdDn-Doc4x3sSq4qTPBV/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
