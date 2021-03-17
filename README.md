@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aloysius Kieth</h1>
-<h3 align="center">A code enthusiast from the sunny islands of Singapore! <img src="https://hatscripts.github.io/circle-flags/flags/sg.svg" width="48"></h3>
+<h3 align="center">A Software Developer from the sunny islands of Singapore! <img src="https://hatscripts.github.io/circle-flags/flags/sg.svg" width="48"></h3>
 
 - 👨‍💻 Visit my website @ [https://aloysius-kieth.github.io/portfolio-2021/](https://aloysius-kieth.github.io/portfolio-2021/)
 
