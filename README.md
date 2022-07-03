@@ -5,7 +5,7 @@
 
 - 📫 Reach me @ **aloysius.kieth@gmail.com**
 
-- 📄 Read all my experiences @ [My Resume](https://docs.google.com/document/d/16ugyC8kgBSwMS6luH6oKiP1ONr7vOC122WhS14tldxw/edit?usp=sharing)
+- 📄 Read all my experiences @ [My Resume](https://drive.google.com/file/d/1VuAFn-leC-VQm13lwl71qalqsrWPwtiC/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools</h3>
